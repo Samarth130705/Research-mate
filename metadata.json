@@ -1,0 +1,6 @@
+{
+  "name": "ResearchMate AI",
+  "description": "Intelligent Research Paper Assistant for grounded PDF reading, summaries, methodology extraction, paper comparison, viva prep, and research gap discovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
